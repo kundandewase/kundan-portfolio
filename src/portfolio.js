@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Kundan Dewase",
-  title: "Hi all, I'm Kundan",
+  title: "Hi , I'm Kundan",
   subTitle: emoji(
     "A Full Stack Developer 🚀 focused on building fast, scalable, and intelligent web applications — combining modern frontend development, backend engineering, databases, APIs, deployment, and AI integration. Bridging clean code with great user experience, from database to deployment."
   ),
@@ -112,7 +112,7 @@ const educationInfo = {
       schoolName: "GH Raisoni College of Engineering and Management, Nagpur",
       logo: require("./assets/images/ghraisoniLogo.png"),
       subHeader: "Bachelor of Computer Applications (BCA)",
-      duration: "2026 Graduate",
+      duration: "2026 Graduated",
       desc: "CGPA: 8.42 / 10",
       descBullets: []
     }
@@ -153,7 +153,7 @@ const workExperiences = {
       date: "Live Project",
       desc: "AI-focused project designed around system architecture and intelligent software development workflows.",
       url: "https://ai-system-architect-studio.vercel.app/",
-      descBullets: []
+      descBullets: ["Built an AI-powered platform that transforms natural-language requirements into system architecture, component designs."]
     },
     {
       role: "React, Vite, Express.js, MongoDB, Judge0 API, OpenAI/Ollama",
